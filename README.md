@@ -27,11 +27,7 @@ The dashboard helps analyze sales performance, profit trends, customer segments,
 ## 📷 Dashboard Screenshots
 
 ### 🔹 Sales Overview Dashboard
-![Dashboard Overview](assets/dashboard_1.png)
-
-### 🔹 Sales Forecast Dashboard
-![Sales Forecast](assets/dashboard_2.png)
-
+![Dashboard Overview](![dashboard_1 png](https://github.com/user-attachments/assets/bccefd2d-9200-45c1-bbbf-3fabb84d7c3a)
 ---
 
 ## 🎥 Dashboard Demo Video
